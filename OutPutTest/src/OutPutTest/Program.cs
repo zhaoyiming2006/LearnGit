@@ -15,6 +15,7 @@ namespace OutPutTest
             Console.WriteLine("3");
             Console.WriteLine("master-1");
             Console.WriteLine("master-2");
+            Console.WriteLine("master-3");
             Console.Read();
         }
     }
